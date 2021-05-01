@@ -1,0 +1,49 @@
+<style>
+body{
+background-image: url("whiteComb.jpg");
+}
+.SclName{
+height:50px;
+background-image:url("maroonPol.jpg");
+color: white;
+font-family: Times New Roman;
+font-size: 30px;
+
+}
+
+.Navi{
+background-image:url("gold.jpg");
+height:60px;
+padding:0 50px;
+}
+
+nav{
+width:68%;
+float;right;
+}
+nav ul{
+list-style:none;
+float:right
+}
+nav ul li{
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color:white;
+font-family:sans-serif;
+font-weight:bold;
+margin:0 10px;
+line-height:30px;
+text-transform:uppercase;
+font-size:20px;
+}
+.FT{
+text-align:center;
+height:50px;
+color: white;
+font-family: Times New Roman;
+font-size: 30px;
+background-image:url("maroonPol.jpg");
+}
+</style>
